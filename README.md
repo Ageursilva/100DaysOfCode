@@ -10,7 +10,7 @@
 
  - [x] 1.  Instalar Python e configurar o ambiente.
  - [x] 2.  Escrever um programa "Hello, World!".
- - [ ] 3.  Criar um calculador básico (adição, subtração, multiplicação, divisão).
+ - [x] 3.  Criar um calculador básico (adição, subtração, multiplicação, divisão).
  - [ ] 4.  Implementar conversões de unidades (por exemplo, metros para quilômetros).
  - [ ] 5.  Criar um gerador de senhas aleatórias.
  - [ ] 6.  Fazer um programa de adivinhação de números.
