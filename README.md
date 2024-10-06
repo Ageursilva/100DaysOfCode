@@ -13,7 +13,7 @@
  - [x] 3.  Criar um calculador básico (adição, subtração, multiplicação, divisão).
  - [x] 4.  Implementar conversões de unidades (por exemplo, metros para quilômetros).
  - [x] 5.  Criar um gerador de senhas aleatórias.
- - [ ] 6.  Fazer um programa de adivinhação de números.
+ - [x] 6.  Fazer um programa de adivinhação de números.
  - [ ] 7.  Desenvolver um conversor de moedas.
  - [ ] 8.  Criar um programa para contar vogais em uma frase.
  - [ ] 9.  Fazer uma calculadora de IMC (Índice de Massa Corporal).
