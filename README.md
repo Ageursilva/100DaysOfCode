@@ -16,7 +16,7 @@
  - [x] 6.  Fazer um programa de adivinhação de números.
  - [x] 7.  Desenvolver um conversor de moedas.
  - [x] 8.  Criar um programa para contar vogais em uma frase.
- - [ ] 9.  Fazer uma calculadora de IMC (Índice de Massa Corporal).
+ - [x] 9.  Fazer uma calculadora de IMC (Índice de Massa Corporal).
  - [ ] 10.  Implementar um programa que verifica se um número é primo.
 
 ### Dias 11-20: Estruturas de Dados
