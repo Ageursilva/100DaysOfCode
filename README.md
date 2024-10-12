@@ -22,7 +22,7 @@
 ### Dias 11-20: Estruturas de Dados
 
  - [x] 11.  Criar uma lista de compras e permitir adicionar/remover itens.
- - [ ] 12.  Implementar uma pilha (stack) com operações push/pop.
+ - [x] 12.  Implementar uma pilha (stack) com operações push/pop.
  - [ ] 13.  Criar uma fila (queue) com operações enqueue/dequeue.
  - [ ] 14.  Fazer um programa para encontrar o maior e o menor número em uma lista.
  - [ ] 15.  Implementar um dicionário para armazenar contatos.
