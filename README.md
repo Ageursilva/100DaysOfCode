@@ -24,7 +24,7 @@
  - [x] 11.  Criar uma lista de compras e permitir adicionar/remover itens.
  - [x] 12.  Implementar uma pilha (stack) com operações push/pop.
  - [x] 13.  Criar uma fila (queue) com operações enqueue/dequeue.
- - [ ] 14.  Fazer um programa para encontrar o maior e o menor número em uma lista.
+ - [x] 14.  Fazer um programa para encontrar o maior e o menor número em uma lista.
  - [ ] 15.  Implementar um dicionário para armazenar contatos.
  - [ ] 16.  Criar uma função que remove duplicatas de uma lista.
  - [ ] 17.  Fazer um programa que conta a frequência de palavras em um texto.
