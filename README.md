@@ -25,7 +25,7 @@
  - [x] 12.  Implementar uma pilha (stack) com operações push/pop.
  - [x] 13.  Criar uma fila (queue) com operações enqueue/dequeue.
  - [x] 14.  Fazer um programa para encontrar o maior e o menor número em uma lista.
- - [ ] 15.  Implementar um dicionário para armazenar contatos.
+ - [x] 15.  Implementar um dicionário para armazenar contatos.
  - [ ] 16.  Criar uma função que remove duplicatas de uma lista.
  - [ ] 17.  Fazer um programa que conta a frequência de palavras em um texto.
  - [ ] 18.  Criar um jogo simples de dados (rolar dois dados).
