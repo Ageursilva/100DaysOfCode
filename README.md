@@ -27,7 +27,7 @@
  - [x] 14.  Fazer um programa para encontrar o maior e o menor número em uma lista.
  - [x] 15.  Implementar um dicionário para armazenar contatos.
  - [x] 16.  Criar uma função que remove duplicatas de uma lista.
- - [ ] 17.  Fazer um programa que conta a frequência de palavras em um texto.
+ - [x] 17.  Fazer um programa que conta a frequência de palavras em um texto.
  - [ ] 18.  Criar um jogo simples de dados (rolar dois dados).
  - [ ] 19.  Implementar uma função que inverte uma string.
  - [ ] 20.  Criar um programa que lista os anagramas de uma palavra.
