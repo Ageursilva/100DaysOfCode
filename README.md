@@ -29,7 +29,7 @@
  - [x] 16.  Criar uma função que remove duplicatas de uma lista.
  - [x] 17.  Fazer um programa que conta a frequência de palavras em um texto.
  - [x] 18.  Criar um jogo simples de dados (rolar dois dados).
- - [ ] 19.  Implementar uma função que inverte uma string.
+ - [x] 19.  Implementar uma função que inverte uma string.
  - [ ] 20.  Criar um programa que lista os anagramas de uma palavra.
 
 ### Dias 21-30: Programação Orientada a Objetos
