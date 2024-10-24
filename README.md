@@ -30,7 +30,7 @@
  - [x] 17.  Fazer um programa que conta a frequência de palavras em um texto.
  - [x] 18.  Criar um jogo simples de dados (rolar dois dados).
  - [x] 19.  Implementar uma função que inverte uma string.
- - [ ] 20.  Criar um programa que lista os anagramas de uma palavra.
+ - [x] 20.  Criar um programa que lista os anagramas de uma palavra.
 
 ### Dias 21-30: Programação Orientada a Objetos
 
