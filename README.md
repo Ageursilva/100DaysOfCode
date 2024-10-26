@@ -35,7 +35,7 @@
 ### Dias 21-30: Programação Orientada a Objetos
 
  - [x] 21.  Criar uma classe para representar um carro.
- - [ ] 22.  Implementar métodos para a classe Carro (acelerar, frear).
+ - [x] 22.  Implementar métodos para a classe Carro (acelerar, frear).
  - [ ] 23.  Criar uma classe de usuário com métodos para registro e login.
  - [ ] 24.  Desenvolver um sistema de gerenciamento de biblioteca.
  - [ ] 25.  Criar uma classe para representar um retângulo com métodos de cálculo de área e perímetro.
