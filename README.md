@@ -37,7 +37,7 @@
  - [x] 21.  Criar uma classe para representar um carro.
  - [x] 22.  Implementar métodos para a classe Carro (acelerar, frear).
  - [x] 23.  Criar uma classe de usuário com métodos para registro e login.
- - [ ] 24.  Desenvolver um sistema de gerenciamento de biblioteca.
+ - [x] 24.  Desenvolver um sistema de gerenciamento de biblioteca.
  - [ ] 25.  Criar uma classe para representar um retângulo com métodos de cálculo de área e perímetro.
  - [ ] 26.  Implementar herança criando classes para diferentes tipos de veículos.
  - [ ] 27.  Criar uma classe de conta bancária com operações de depósito e saque.
