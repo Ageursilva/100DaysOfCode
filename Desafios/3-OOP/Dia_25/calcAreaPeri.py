@@ -12,4 +12,4 @@ largura = float(input("Digite a largura do retangulo: "))
 altura = float(input("Digite a altura do retangulo: "))
 
 print(f"Area = {retangulo(largura,altura).area()}")
-print(f"Perimetro = {retangulo(largura,altura).perimetro()}" )    
+print(f"Perimetro = {retangulo(largura,altura).perimetro()}" )   

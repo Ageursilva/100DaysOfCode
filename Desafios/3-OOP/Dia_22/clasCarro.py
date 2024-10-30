@@ -1,11 +1,11 @@
 class carro:
-    def __init__(self,marca,ano,modelo,kilometragem,combustivel,tranmissao,preço):
+    def __init__(self,marca,ano,modelo,kilometragem,combustivel,transmissao,preço):
         self.marca = marca
         self.ano = ano
         self.modelo= modelo
         self.kilometragem = kilometragem
         self.combustivel=  combustivel
-        self.tranmissao= tranmissao
+        self.transmissao= transmissao
         self.preço= preço
         
     def ligar(self):

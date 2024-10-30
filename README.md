@@ -39,7 +39,7 @@
  - [x] 23.  Criar uma classe de usuário com métodos para registro e login.
  - [x] 24.  Desenvolver um sistema de gerenciamento de biblioteca.
  - [x] 25.  Criar uma classe para representar um retângulo com métodos de cálculo de área e perímetro.
- - [ ] 26.  Implementar herança criando classes para diferentes tipos de veículos.
+ - [x] 26.  Implementar herança criando classes para diferentes tipos de veículos.
  - [ ] 27.  Criar uma classe de conta bancária com operações de depósito e saque.
  - [ ] 28.  Implementar polimorfismo com um método que imprime informações do veículo.
  - [ ] 29.  Fazer um jogo simples usando classes (por exemplo, um jogo de adivinhação).
