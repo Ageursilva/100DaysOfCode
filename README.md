@@ -41,7 +41,7 @@
  - [x] 25.  Criar uma classe para representar um retângulo com métodos de cálculo de área e perímetro.
  - [x] 26.  Implementar herança criando classes para diferentes tipos de veículos.
  - [x] 27.  Criar uma classe de conta bancária com operações de depósito e saque.
- - [ ] 28.  Implementar polimorfismo com um método que imprime informações do veículo.
+ - [x] 28.  Implementar polimorfismo com um método que imprime informações do veículo.
  - [ ] 29.  Fazer um jogo simples usando classes (por exemplo, um jogo de adivinhação).
  - [ ] 30.  Criar um gerador de relatórios usando classes e objetos.
 
