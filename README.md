@@ -43,7 +43,7 @@
  - [x] 27.  Criar uma classe de conta bancária com operações de depósito e saque.
  - [x] 28.  Implementar polimorfismo com um método que imprime informações do veículo.
  - [x] 29.  Fazer um jogo simples usando classes (por exemplo, um jogo de adivinhação).
- - [ ] 30.  Criar um gerador de relatórios usando classes e objetos.
+ - [x] 30.  Criar um gerador de relatórios usando classes e objetos.
 
 ### Dias 31-40: Desenvolvimento Web
 
