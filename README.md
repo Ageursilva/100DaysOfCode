@@ -47,11 +47,11 @@
 
 ### Dias 31-40: Desenvolvimento Web
 
- - [ ] 31.  Criar um site básico com Flask.
- - [ ] 32.  Implementar rotas e templates no Flask.
- - [ ] 33.  Criar um formulário de contato em um site.
- - [ ] 34.  Desenvolver um sistema de login básico com Flask.
- - [ ] 35.  Integrar um banco de dados SQLite com Flask.
+ - [x] 31.  Criar um site básico com Flask.
+ - [x] 32.  Implementar rotas e templates no Flask.
+ - [x] 33.  Criar um formulário de contato em um site.
+ - [x] 34.  Desenvolver um sistema de login básico com Flask.
+ - [x] 35.  Integrar um banco de dados SQLite com Flask.
  - [ ] 36.  Criar uma aplicação de lista de tarefas (to-do list).
  - [ ] 37.  Implementar upload de arquivos em um site.
  - [ ] 38.  Desenvolver uma API RESTful simples com Flask.
